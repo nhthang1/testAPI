@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="testAPI.MainPage">
+
+    <ListView x:Name="TestListView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="{Binding _id}" TextColor="Black"></Label>
+                    <Label Text="{Binding tenVi}" TextColor="Black"></Label>
+                    <Label Text="{Binding currentMoney}" TextColor="Black"></Label>
+                    <Label Text="{Binding thuNhap}" TextColor="Black"></Label>
+                    <Label Text="{Binding duDinhDung}" TextColor="Black"></Label>
+                    <Label Text="{Binding duDinhTichLuy}" TextColor="Black"></Label>
+                    <Label Text="{Binding giaoDich }" TextColor="Black"></Label>
+                    <Label Text="{Binding createdAt}" TextColor="Black"></Label>
+                </StackLayout>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

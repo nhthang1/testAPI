@@ -1,0 +1,14 @@
+E:\call API\testAPI\testAPI\bin\Debug\netstandard2.0\testAPI.deps.json
+E:\call API\testAPI\testAPI\bin\Debug\netstandard2.0\testAPI.dll
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\testAPI.csprojAssemblyReference.cache
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\testAPI.csproj.CoreCompileInputs.cache
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\testAPI.AssemblyInfoInputs.cache
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\testAPI.AssemblyInfo.cs
+E:\call API\testAPI\testAPI\bin\Debug\netstandard2.0\ref\testAPI.dll
+E:\call API\testAPI\testAPI\bin\Debug\netstandard2.0\testAPI.pdb
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\XamlC.stamp
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\testAPI.dll
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\ref\testAPI.dll
+E:\call API\testAPI\testAPI\obj\Debug\netstandard2.0\testAPI.pdb
